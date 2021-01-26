@@ -1,0 +1,33 @@
+body {
+        color: #5C788C;                 /*blue-gray*/
+        background-color: #ECECEC;      /*light gray*/
+}
+
+h1 {
+	font-size: 4em;
+        padding: 50px;
+        border 1px solid #5d6063;
+}
+
+h1, p, ul {
+        background-color: #D1D3D5;
+}
+
+p, ul {
+	width: 300px;
+}
+
+h2 {
+        font-size: 32px;
+        font-style: italic;
+	font-weight: lighter;
+}
+
+.contact {
+	background-color: #ECECEC;
+}
+
+#contact-h {
+	font-size: 2em;
+	font-style: normal;
+}
